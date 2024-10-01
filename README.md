@@ -37,4 +37,4 @@ Nanthagoma
 Version
 1.0.0
 
-Note: Replace your-username with your actual GitHub Nandhagoma, and update the LICENSE file with the actual license text.
+Note: Replace your-username with your actual GitHub Nanthagoma, and update the LICENSE file with the actual license text.
